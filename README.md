@@ -5,7 +5,7 @@ This Repository Lines out how it works what the Concepts are and why this exists
 The blockchain Models of today have a speed and scalability issue that they will not solve with the oldschool blockchain thinking. While https://www.hyperledger.org comes near to what we got already we aim to have a better Concept and tool chain 
 
 ## How?!????
-We have made and researched concepts to Scale Blockchains to Infinity and adopt Blockchains of diffrent types as also ingreed data from anywhere in the world into Blockchains we call it internal simply Meta Blockchain since its a own blockchain forked from any data as also LowLevel Blockchains them self. In Fact every Blockchain is a Simple Stream with some Checksums Attached to it not more not less. It gains trust via its Mirrors that can verify new and old blocks. Simpl huh? 
+We have made and researched concepts to Scale Blockchains to Infinity and adopt Blockchains of diffrent types as also ingreed data from anywhere in the world into Blockchains we call it internal simply Meta Blockchain since its a own blockchain forked from any data as also LowLevel Blockchains them self via our PoO (Proof of Origin) Algorythm. In Fact every Blockchain is a Simple Stream with some Checksums Attached to it not more not less. It gains trust via its Mirrors that can verify new and old blocks. Simpl huh? 
 
 ### Patterns
 We Have Designed Patterns for creating blockchains out of Streams since ordered Streams in Current Computing Algos supply a blockchain like DataStructure already based on Binary Protocols and other Protocols we adopted this Concepts to build Blockchains and Blockchain Technology 
