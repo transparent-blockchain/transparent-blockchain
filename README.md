@@ -26,3 +26,9 @@ Like any Other Block Chain it Starts with a Master Block that will certificate 2
 To Prove that we was the first thats how even many of Our Algorythms work now Microsofts Github Project is a Verification endpoint with his git algo to Verify that Frank Lemanschik did Invent this as the first guy on earth and published it to a blockchain. The GIT Algo is also a blockhain via references not crypt hashes its authority comes from Mirrors and having the Largest Opensource shared Code Platform github envolved makes us Proud. Thanks Microsoft and the Original github founding Team and Linus Torvald for this! When this Readme gets its first commit it will be Stamped into the Logs of Microsoft. We are currently working on some ideas to even Stamp it into the Logs of Amazon as they are also a valuable source of trust but thats more a Joke and PoC Project then anything else :)
 
 Oh and back to Topic why do we Open Source this? We belive strong into the fact that the inventing Individual is never Replace able in any Project as he has the Soule and Spirit to Raise its child but we want to learn from any one that is smart and Invite every one to Contribute to the Effort we did.
+
+## Our Uniq PoO
+The PoO algo is outlined in this git repo as PROOF-OF-ORIGIN.md and acts as the Authencication part of the [Authentication via_Algorithms_for_Byzantine_Agreement](https://www.researchgate.net/publication/220616485_Authenticated_Algorithms_for_Byzantine_Agreement)  which is to make it simply a Fork of the Git Concepts and ideas more abstract defined :D
+
+## Contact
+If you like you can reasearch my Email or contact me via Twitter [@lemanschik](https://twitter.com/lemanschik) and send me a Direct Message (DM) 
