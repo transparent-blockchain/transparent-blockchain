@@ -11,3 +11,6 @@ So subchains can fork of and Into the Original Bitcoin Block chain like git can 
 to act as a Authority for timestamped data while github's data is modify able the results in a blockchain based on this algo 
 is not modify able!
 
+## Main Concepts
+Like git allows forking of from a checksum (in our case a blockchain build out of any PoO based blockchain) we allow the same so Unlimited indipendent trees can be Securly Merged Into a Single Chain again via a New Point in any Chain. That Solved the Scalability and Performance issues of any other Solution that currently Exists. This Method has near endless Power as it can easy define for example a checksum of anypoint in time for example from a Blockchain like bitcoin and Compact it into a single
+checksum so the Whole Blockchain in Time can be Referenced via this Checksum and the original Blockchain can get Archived!
